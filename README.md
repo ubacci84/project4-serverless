@@ -1,5 +1,5 @@
 # Part of the UDACITY Cloud Developer program
->## _This is in preparation of the project "Serveless" submission_ !
+>## _This is in preparation of the project "Serverless" submission_ !
 
 <br>
 <br>
